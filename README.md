@@ -1,4 +1,4 @@
-This is a [giter8](https://github.com/n8han/giter8) template for creating a new [sbt-latex project](https://github.com/emchristiansen/sbt-latex).
+This is a [giter8](https://github.com/n8han/giter8) template for creating a new [sbt-latex](https://github.com/emchristiansen/sbt-latex) project.
 
 To use: 
 
