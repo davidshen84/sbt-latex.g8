@@ -6,3 +6,5 @@ To use:
 2. Create a new LaTeX project with the command `g8 emchristiansen/sbt-latex`.
 
 Now you can move into the created directory and run `sbt latex` to build the example.
+
+Trick: Run `~latex` from sbt to rebuild whenever a file changes.
